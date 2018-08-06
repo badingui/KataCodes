@@ -1,6 +1,6 @@
 namespace DigiSim
 {
-    public class PorteLogiqueNot
+    public class PorteLogiqueNot: PorteLogiqueBase
     {
         
     }

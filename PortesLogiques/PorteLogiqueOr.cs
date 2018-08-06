@@ -1,6 +1,6 @@
 namespace DigiSim
 {
-    public class PorteLogiqueOr
+    public class PorteLogiqueOr: PorteLogiqueBase
     {
         
     }
